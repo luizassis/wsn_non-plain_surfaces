@@ -364,8 +364,6 @@ ao
  % simulação do bloco de simulação analisado
  for i = 1:conectado
  LqA{1,VS(i)}(bloco_simulacao) = max(Lq{1,VS(i)});
-
-103
  end
 
  end
