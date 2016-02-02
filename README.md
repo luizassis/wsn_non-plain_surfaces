@@ -1,0 +1,2 @@
+# wsn_non-plain_surfaces
+The simulation consists of a terrain generation, a random distribution of nodes and a transmission of packages between nodes. Based on these three steps, the exchange of packages between nodes occurs by using the Breadth-First Search (BFS) algorithm. How many nodes and their range are defined by this algorithm. After checking the activation of each node, packets are generated and transmitted to the following nodes. This process occurs repeatedly and helps to analyse existing parameters in the sensor networks on non-plain surfaces.
